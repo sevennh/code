@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>buoi2mang</label>
+	</settings>
+	<users>
+		<user>
+			<path>buoi2mang.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>buoi2mang.jcp</path>
+		</project>
+	</projects>
+</workspace>
