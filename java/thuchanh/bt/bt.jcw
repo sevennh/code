@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>bt</label>
+	</settings>
+	<users>
+		<user>
+			<path>bt.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>bt.jcp</path>
+		</project>
+	</projects>
+</workspace>
